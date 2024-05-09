@@ -1,0 +1,15 @@
+body {
+    background: linear-gradient(to bottom, #ffffff, #add8e6); /* Fundo degradê branco para azul */
+    text-align: center; /* Centralizar todo o conteúdo */
+}
+
+h1, h2 {
+    font-size: 30px;
+    color: black;
+    font-family: Arial, sans-serif; /* Escolher um estilo de letra */
+}
+
+a {
+    color: blue; /* Cor azul */
+    text-decoration: none; /* Tirar a linha sublinhada */
+  }
