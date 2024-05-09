@@ -1,0 +1,16 @@
+body {
+    background: linear-gradient(to bottom, #ffffff, #00ffff); /* Fundo degradê branco para azul ciano */
+}
+
+.paragrafo-impar {
+    font-size: 16pt;
+    font-family: Arial, sans-serif; /* Arial como backup */
+    color: red;
+}
+
+#paragrafo-par {
+    font-size: 20pt;
+    font-family: Verdana, sans-serif; /* Verdana como backup */
+    color: blue;
+}
+      
